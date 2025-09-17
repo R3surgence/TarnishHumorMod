@@ -1,6 +1,6 @@
-//heyyy welcome to the testing branch
-//a fair warning before you use any of this: it may or may not work so bug reports are very valuable to me here!!!
-
+/*heyyy welcome to the testing branch
+a fair warning before you use any of this: it may or may not work so bug reports are very valuable to me here!!!
+even though nothing actually experimental is here yet lmao*/
 document.addEventListener('corru_entered', () => {
 //windup shit for augmentsss
     CrittaMenu.generateStatHTMLObject = function(stats, {member, slotName, componentName, editingMember = {}} = {}) {
